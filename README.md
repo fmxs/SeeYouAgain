@@ -1,2 +1,1 @@
-# SeeYouAgain
-We hope that people can chat with the deceased by cloning their voice, facial features, and conversational tone
+基于已故者的多模态资料（照片、音频、文字）生成一个可交互的数字化形象。
