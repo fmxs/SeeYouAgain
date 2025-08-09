@@ -1,1 +1,1 @@
-基于已故者的多模态资料（照片、音频、文字）生成一个可交互的数字化形象。
+Generate an interactive digital image based on multimodal data (photos, audio, text) of the deceased.
