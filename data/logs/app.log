@@ -1,0 +1,4 @@
+2025-08-10 02:45:35.559 | INFO     | __main__:main:68 - App starting
+2025-08-10 02:46:14.981 | INFO     | __main__:on_send_clicked:54 - User prompt: 你好
+2025-08-10 02:46:22.616 | INFO     | __main__:on_send_clicked:54 - User prompt: 我是方墨
+2025-08-10 02:47:53.662 | INFO     | __main__:main:73 - App exit

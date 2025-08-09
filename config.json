@@ -1,0 +1,14 @@
+{
+  "app_name": "Clone Demo",
+  "log_path": "data/logs/app.log",
+  "theme": "light",
+  "llm": {
+    "provider": "online_stub",
+    "api_base": "",
+    "api_key": ""
+  },
+  "tts": {
+    "provider": "stub",
+    "voice_profile": ""
+  }
+}
